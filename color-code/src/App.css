@@ -1,0 +1,66 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 400px;
+ 
+  border-radius: 8px;
+  padding: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.rad{
+  font-size: 20px;
+  border: 2px solid red;
+  border-radius: 10px;
+  color: red;
+}
+.blue{
+  font-size: 20px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  color: blue;
+}
+.green{
+  font-size: 20px;
+  border: 2px solid green;
+  border-radius: 10px;
+  color: green;
+}
+.White{
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: black;
+}
+.tomato{
+  font-size: 20px;
+  border: 2px solid tomato;
+  border-radius: 10px;
+  color: tomato;
+}
+.orange{
+  font-size: 20px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  color: orange;
+}
+.black{
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: black;
+}
+.violet{
+  font-size: 20px;
+  border: 2px solid violet;
+  border-radius: 10px;
+  color: violet;
+}
+.gray{
+  font-size: 20px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  color: gray;
+}
